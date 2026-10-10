@@ -54,7 +54,11 @@ Outside day-to-day development, I enjoy tackling algorithmic problems and buildi
 **Recently updated public repositories** · refreshed daily by GitHub Actions
 
 <!-- AUTO-PROJECTS:START -->
-_This section will populate after the first successful workflow run._
+- **[DownNo2_XGBoost](https://github.com/saket5ingh/DownNo2_XGBoost)** · Python · updated 2025-08-17
+- **[FruitQualityDetection](https://github.com/saket5ingh/FruitQualityDetection)** · HTML · updated 2025-03-23
+- **[Online_Judge](https://github.com/saket5ingh/Online_Judge)** · Python · updated 2024-01-13
+- **[prayaas](https://github.com/saket5ingh/prayaas)** · JavaScript · updated 2024-01-04
+- **[-Assignment-Management-Software-System](https://github.com/saket5ingh/-Assignment-Management-Software-System)** · C · updated 2023-07-12
 <!-- AUTO-PROJECTS:END -->
 
 <details>
