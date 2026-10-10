@@ -1,66 +1,75 @@
-<!-- Replace every line marked TODO with your own details before publishing. -->
 
-<h1 align="center">Hi, I'm Saket Kumar 👋</h1>
+<div align="center">
 
-<p align="center">
-  <!-- TODO: write your own one-line role, e.g. "Software Developer | Python & Data Engineering" -->
-  Software developer building with Python, JavaScript and C
-</p>
+# Hi, I'm Saket Kumar 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-</p>
+### Software Engineer | Backend Development | Cloud & DevOps
 
-<p align="center">
-  <!-- TODO: replace the LinkedIn and email links -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=saket5ingh&style=flat-square&color=blue" alt="Profile views" />
-</p>
+Building scalable backend systems, reliable applications, and developer tools.
+
+[![GitHub](https://img.shields.io/badge/GitHub-saket5ingh-181717?style=flat-square&logo=github)](https://github.com/saket5ingh)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-- 🏢 Working with [@enfoldindia](https://github.com/enfoldindia) on data platform and deployment tooling
-- 🔭 Currently working on: <!-- TODO: what you're building right now -->
-- 🌱 Currently learning: <!-- TODO: e.g. cloud infrastructure, machine learning -->
-- 💬 Ask me about: Python, machine learning, backend development
-- 🦈 Pull Shark achievement unlocked
+- 💼 Software Engineer with a focus on backend development
+- 🎓 B.Tech in Computer Science & Engineering from VNIT Nagpur
+- ⚙️ Experienced with Java, Spring Boot, Python, and REST APIs
+- ☁️ Interested in distributed systems, cloud infrastructure, and DevOps
+- 🛠️ Building applications with an emphasis on maintainability and reliability
+- 💡 Enjoy solving complex engineering problems and learning new technologies
 
-## 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
-| Area | Tools |
-|------|-------|
-| Languages | Python, C, JavaScript, HTML |
-| Machine Learning | XGBoost |
-| Cloud & DevOps | AWS (SSM), staging and deployment tooling |
-| Tools | Git, GitHub |
+**Languages**
 
-## 🚀 Featured Projects
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-| Project | Description | Language |
-|---------|-------------|----------|
-| [Online_Judge](https://github.com/saket5ingh/Online_Judge) | Online judge system for evaluating code submissions | Python |
-| [Assignment-Management-Software-System](https://github.com/saket5ingh/-Assignment-Management-Software-System) | Software system to manage assignments | C |
-| [prayaas](https://github.com/saket5ingh/prayaas) | Web project | JavaScript |
-| [DownNo2_XGBoost](https://github.com/saket5ingh/DownNo2_XGBoost) | Machine learning model built with XGBoost | Python |
-| [FruitQualityDetection](https://github.com/saket5ingh/FruitQualityDetection) | Fruit quality detection project | HTML |
+**Backend & Frameworks**
 
-<!-- TODO: edit the descriptions above so they match what each project actually does -->
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-## 📊 GitHub Stats
+**Cloud, DevOps & Tools**
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saket5ingh&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saket5ingh&layout=compact&hide_border=true" alt="Top languages" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 🚀 Featured Projects
+
+#### [Online Judge](https://github.com/saket5ingh/Online_Judge)
+A web-based code evaluation platform built with Django, SQLite, and Docker.
+
+#### [Assignment Management System](https://github.com/saket5ingh/-Assignment-Management-Software-System)
+An assignment management application implemented in C using data structures.
+
+#### [DownNo2 XGBoost](https://github.com/saket5ingh/DownNo2_XGBoost)
+A machine learning project using XGBoost.
+
+### 📊 GitHub Activity
+
+Explore my repositories, contributions, and ongoing work:
+
+[![GitHub Profile](https://img.shields.io/badge/View_My_Contributions-181717?style=for-the-badge&logo=github)](https://github.com/saket5ingh?tab=overview)
+
+### 🤝 Connect With Me
+
+I'm interested in backend engineering, scalable systems,
+developer tooling, and collaborating on interesting projects.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/saket5ingh)
 
 ---
 
-<p align="center">⭐ If you like my work, feel free to star a repository!</p>
+<div align="center">
+  <sub>Always learning. Always building.</sub>
+</div>
