@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="280" viewBox="0 0 1100 280" role="img" aria-label="Saket Kumar, software engineer">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090e1b"/><stop offset="1" stop-color="#182543"/></linearGradient><linearGradient id="glow"><stop stop-color="#32d7e8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect width="1100" height="280" rx="20" fill="url(#bg)"/><g opacity=".22" stroke="#51c9ec"><path d="M0 40H1100M0 100H1100M0 160H1100M0 220H1100M60 0V280M190 0V280M320 0V280M450 0V280M580 0V280M710 0V280M840 0V280M970 0V280"/></g>
+<circle cx="966" cy="74" r="90" fill="#6b5cff" opacity=".08"/><circle cx="935" cy="198" r="125" fill="#0bd0df" opacity=".09"/>
+<text x="68" y="78" font-size="18" font-family="monospace" fill="#32d7e8">&gt; hello_world</text>
+<text x="65" y="146" font-size="59" font-weight="700" font-family="Arial,Helvetica,sans-serif" fill="#f3f7ff">Saket Kumar</text>
+<text x="69" y="191" font-size="23" font-family="Arial,Helvetica,sans-serif" fill="#b8c8e2">Software Engineer  ·  Backend Systems  ·  Cloud &amp; DevOps</text>
+<rect x="69" y="222" width="475" height="3" rx="1" fill="url(#glow)"><animate attributeName="width" values="90;475;90" dur="6s" repeatCount="indefinite"/></rect>
+<text x="69" y="250" font-size="15" font-family="monospace" fill="#98adc7">Building reliable software, one commit at a time.</text></svg>
