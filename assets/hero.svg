@@ -1,9 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="280" viewBox="0 0 1100 280" role="img" aria-label="Saket Kumar, software engineer">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090e1b"/><stop offset="1" stop-color="#182543"/></linearGradient><linearGradient id="glow"><stop stop-color="#32d7e8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
-<rect width="1100" height="280" rx="20" fill="url(#bg)"/><g opacity=".22" stroke="#51c9ec"><path d="M0 40H1100M0 100H1100M0 160H1100M0 220H1100M60 0V280M190 0V280M320 0V280M450 0V280M580 0V280M710 0V280M840 0V280M970 0V280"/></g>
-<circle cx="966" cy="74" r="90" fill="#6b5cff" opacity=".08"/><circle cx="935" cy="198" r="125" fill="#0bd0df" opacity=".09"/>
-<text x="68" y="78" font-size="18" font-family="monospace" fill="#32d7e8">&gt; hello_world</text>
-<text x="65" y="146" font-size="59" font-weight="700" font-family="Arial,Helvetica,sans-serif" fill="#f3f7ff">Saket Kumar</text>
-<text x="69" y="191" font-size="23" font-family="Arial,Helvetica,sans-serif" fill="#b8c8e2">Software Engineer  ·  Backend Systems  ·  Cloud &amp; DevOps</text>
-<rect x="69" y="222" width="475" height="3" rx="1" fill="url(#glow)"><animate attributeName="width" values="90;475;90" dur="6s" repeatCount="indefinite"/></rect>
-<text x="69" y="250" font-size="15" font-family="monospace" fill="#98adc7">Building reliable software, one commit at a time.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Saket Kumar, full-stack software engineer">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1224"/><stop offset="1" stop-color="#152c46"/></linearGradient><linearGradient id="accent"><stop stop-color="#43d4db"/><stop offset="1" stop-color="#a78bfa"/></linearGradient><pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#a8c9f2" stroke-width=".6" opacity=".14"/></pattern></defs>
+<rect width="1200" height="320" rx="18" fill="url(#bg)"/><rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+<circle cx="1060" cy="140" r="130" fill="#70baff" opacity=".055"/><circle cx="1040" cy="156" r="97" fill="none" stroke="#58d4df" opacity=".34" stroke-width="1.5"/><circle cx="1040" cy="156" r="63" fill="none" stroke="#8b91e9" opacity=".25" stroke-width="1.5"/><path d="M1040 48V264M932 156h216" stroke="#45d9e0" opacity=".18"/>
+<rect x="58" y="54" width="196" height="30" rx="15" fill="#19354a" stroke="#3b9fb0" stroke-width=".8"/><circle cx="75" cy="69" r="5" fill="#48d9b2"/><text x="89" y="74" fill="#bae6ea" font-family="Arial,sans-serif" font-size="14" letter-spacing="1">OPEN TO BUILDING</text>
+<text x="57" y="158" fill="#f3f8ff" font-size="67" font-weight="700" font-family="Arial,Helvetica,sans-serif">Saket Kumar</text>
+<text x="61" y="206" fill="#c4d7e9" font-family="Arial,Helvetica,sans-serif" font-size="24">Software Engineer  /  Full-Stack Developer</text>
+<rect x="61" y="231" width="580" height="3" fill="url(#accent)" rx="2"/>
+<text x="61" y="270" fill="#8fc2d8" font-size="18" font-family="monospace">Java  ·  Spring Boot  ·  React  ·  Systems</text>
+<text x="1039" y="161" fill="#77dce6" font-size="36" font-family="monospace" text-anchor="middle" opacity=".8">&lt;/&gt;</text>
+</svg>

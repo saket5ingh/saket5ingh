@@ -1,100 +1,75 @@
 <div align="center">
+  <img src="assets/hero.svg" alt="Saket Kumar — Software Engineer | Full-Stack Developer" width="100%" />
 
-<a href="https://github.com/saket5ingh"><img src="assets/hero.svg" width="100%" alt="Saket Kumar — Software Engineer · Backend Systems · Cloud and DevOps" /></a>
-
-<a href="https://github.com/saket5ingh?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-12B8C9?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
-<a href="https://github.com/saket5ingh?tab=overview"><img src="https://img.shields.io/badge/GitHub-Activity-292D49?style=for-the-badge&logo=github&logoColor=white" alt="View activity" /></a>
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saket5ingh/)
+  [![Projects](https://img.shields.io/badge/GitHub-View%20Projects-171d32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saket5ingh?tab=repositories)
+  [![Engineering](https://img.shields.io/badge/Software%20Engineer-JPMorganChase-167a82?style=for-the-badge)](https://www.linkedin.com/in/saket5ingh/)
 </div>
 
-### `> whoami`
+## Hello, I'm Saket 👋
 
-**Software Engineer at JPMorgan Chase**, working with Java, Spring Boot, React, and microservices. I enjoy translating complex problems into maintainable full-stack applications, and I bring a strong foundation in algorithms, systems, and applied machine learning.
+I'm a **Software Engineer at JPMorgan Chase** building enterprise applications with **Java, Spring Boot, React, and microservices**. I enjoy full-stack engineering, clean architecture, competitive programming, and exploring how machine learning can solve real problems.
 
-- 💼 **Engineering:** Enterprise Java applications, Spring Boot, React.js, microservices, and Kubernetes
-- 🎓 **Education:** B.Tech, Computer Science & Engineering — VNIT Nagpur (**8.27 CGPA**)
-- 🧠 **Competitive programming:** **Codeforces Master (2105)** · AlgoUniversity Fellow (top 2% selection)
-- ⚡ **Internship impact:** Automated testing workflows (**80% reduction in testing time**, per my project results), contributed to **10+ Java 11 → 17 migrations**, and developed an NLP-powered chatbot
-- 🏆 **Recognition:** Top 3 at JPMorgan Chase Code for Good Hackathon (550+ participants); VNIT Institute Rank 1 in first semester and Rank 2 in first year
+Outside day-to-day development, I enjoy tackling algorithmic problems and building practical tools.
 
-<sub>Public profile covers my personal work and general experience, not confidential employer systems.</sub>
+- 🎓 **B.Tech in Computer Science & Engineering**, VNIT Nagpur (8.27 CGPA)
+- 🧠 **Codeforces Master**, rating **2105**
+- 🏅 **Top 3**, JPMorgan Chase Code for Good Hackathon (550+ participants)
+- ⚙️ **Internship:** Worked on Java migrations, test automation, and an NLP-powered chatbot
+- 🌱 **Interested in:** Distributed systems, cloud-native applications, developer experience and applied ML
 
-### `> stack --list`
+## Tech stack
 
-<div align="center">
+**Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-</div>
+**Frameworks & backend**
 
-### `> projects --featured`
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![REST](https://img.shields.io/badge/REST%20APIs-3B82F6?style=flat-square)
 
-<table>
-<tr><td width="50%" valign="top">
-<strong><a href="https://github.com/saket5ingh/Online_Judge">Online Judge</a></strong><br/><br/>
-Online judge supporting C, C++, and Python compilation, execution, and automated grading, with Django APIs and Docker-isolated execution.<br/><br/>
-<code>Python</code> <code>Django</code> <code>Docker</code> <code>SQLite</code>
-</td><td width="50%" valign="top">
-<strong><a href="https://github.com/saket5ingh/-Assignment-Management-Software-System">Assignment Management System</a></strong><br/><br/>
-Assignment tracking application implemented in C.<br/><br/>
-<code>C</code> <code>Data Structures</code>
-</td></tr>
-<tr><td width="50%" valign="top">
-<strong><a href="https://github.com/saket5ingh/DownNo2_XGBoost">DownNo2 XGBoost</a></strong><br/><br/>
-High-resolution (100 m) NO₂ air-quality mapping with satellite and ground data. XGBoost model: **R² 0.59**, **MAE 7.69 μg/m³**.<br/><br/>
-<code>Python</code> <code>ML</code>
-</td><td width="50%" valign="top">
-<strong><a href="https://github.com/saket5ingh?tab=repositories">More projects →</a></strong><br/><br/>
-Explore public repositories and ongoing experiments.
-</td></tr>
-</table>
+**Infrastructure & tools**
 
-### `> achievements --highlights`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-F18F3B?style=flat-square)
 
-| Area | Highlight |
-| --- | --- |
-| Competitive programming | **Codeforces Master — 2105** |
-| Academic performance | **VNIT** · 8.27 CGPA · Institute Rank 1 (Semester 1) |
-| Hackathon | **Top 3** · JPMorgan Chase Code for Good |
-| Fellowship | **AlgoUniversity** · Top 2% selection; top 10 in cohort |
+## Selected projects
 
-### `> github --live`
+| Project | What I built | Stack |
+| :--- | :--- | :--- |
+| **[Online Code Judge](https://github.com/saket5ingh/Online_Judge)** | Automated compilation, execution and grading for C, C++ and Python, with Docker-isolated execution | Django · Docker · Python |
+| **[High-Resolution NO₂ Mapping](https://github.com/saket5ingh/DownNo2_XGBoost)** | 100 m air-quality estimation from satellite and ground datasets; reported R² 0.59, MAE 7.69 μg/m³ | XGBoost · Python · ML |
+| **[Assignment Management System](https://github.com/saket5ingh/-Assignment-Management-Software-System)** | Assignment management using data structures | C · Data Structures |
 
-<div align="center"><img src="assets/activity.svg" width="100%" alt="Recent public GitHub activity" /></div>
+## Engineering highlights
 
-**Recently updated public projects** · refreshed daily by GitHub Actions
+- **JPMorgan Chase:** Work across enterprise Java, Spring Boot, React and microservice applications.
+- **Internship:** Reported an **80% reduction in testing time** through automation, contributed to **10+ Java 11 → 17 migrations**, and built an NLP-powered chatbot.
+- **AlgoUniversity:** Selected among the top 2% of applicants and maintained a top-10 cohort ranking.
+- **Academics:** VNIT Institute Rank 1 in semester one (9.67 SGPA) and Rank 2 in first year.
+
+## GitHub activity
+
+<img src="assets/activity.svg" width="100%" alt="Recent public GitHub activity dashboard" />
+
+**Recently updated public repositories** · refreshed daily by GitHub Actions
 
 <!-- AUTO-PROJECTS:START -->
-_The scheduled automation will populate this area after its first successful run._
+_This section will populate after the first successful workflow run._
 <!-- AUTO-PROJECTS:END -->
 
 <details>
-<summary><b>About this activity dashboard</b></summary>
+<summary>How this section works</summary>
 
-The scheduled workflow reads public repositories and recent public GitHub events. This is a limited snapshot of public activity, not a lifetime contribution count. Private contributions and employer repositories are not accessed.
+GitHub Actions updates the project list and an activity card using GitHub's **public repository and public events APIs**. Event counts are a limited public sample, **not** total commits or total contributions. Private repositories are not accessed.
 
 </details>
 
-### `> connect --open`
+---
 
 <div align="center">
+  <b>Let's connect</b>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/saket5ingh)
-[![Repositories](https://img.shields.io/badge/Explore_Projects-0A84FF?style=for-the-badge&logo=github)](https://github.com/saket5ingh?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saket5ingh/)
+  [LinkedIn](https://www.linkedin.com/in/saket5ingh/) · [GitHub](https://github.com/saket5ingh) · [Repositories](https://github.com/saket5ingh?tab=repositories)
 
-<sub>Building useful things, one thoughtful commit at a time.</sub>
-
+  <sub>Personal profile. Views and projects shared here are my own and not affiliated with my employer.</sub>
 </div>
